@@ -1,0 +1,29 @@
+<themes>   
+	<item name="tab_graphics" up="default/tab-graphics-normal.png" over="default/tab-graphics-hover.png" down="default/tab-graphics-selected.png"  />
+	<item name="tab_shapes" up="default/tab-shapes-normal.png" over="default/tab-shapes-hover.png" down="default/tab-shapes-selected.png" />
+	<item name="tab_texts" up="default/tab-text-normal.png" over="default/tab-text-hover.png" down="default/tab-text-selected.png" />
+	<item name="btn_done" up="default/btn-done.png" over="default/btn-cancel.png" down="default/btn-done.png" />
+	<item name="btn_cancel" up="default/btn-cancel.png" over="default/btn-cancel.png" down="default/btn-cancel.png" />
+	<item name="btn_preview" up="default/icon-preview.png" over="default/icon-preview-hover.png" down="default/icon-preview-hover.png" />
+	<item name="btn_viewback" up="default/icon-viewback.png" over="default/icon-viewback-hover.png" down="default/icon-viewback-hover.png" />
+	<item name="btn_viewfront" up="default/icon-viewfront-hover.png" over="default/icon-viewfront-hover.png" down="default/icon-viewfront-hover.png" />
+	<item name="btn_trash" up="default/trash-btn.png" over="default/trash-btn-hover.png" down="default/trash-btn-hover.png" />
+	<item name="btn_clear" up="default/btn-done.png" over="default/btn-done.png" down="default/btn-done.png" />
+	<item name="btn_add_graphics" up="default/btn-add-graphics.png" over="" down="" />
+	<item name="btn_upload" up="default/btn-upload.png" over="" down="" />
+	<item name="scroll_up" up="default/scroll-up-btn.png" over="" down="" />
+	<item name="scroll_down" up="default/scroll-down-btn.png" over="" down="" />
+	<item name="scroll_scroll" up="default/scroll-btn.png" over="" down="" />
+	<item name="cp_rainbow" up="default/rainbow_swatch.png" over="" down="" />
+	<item name="cp_frame" up="default/color-swatch-frame.png" over="default/color-swatch-frame-selected.png" down="" />
+	<item name="border_0" up="default/shapestab/border-0-off.png" over="default/shapestab/border-0-over.png" down="default/shapestab/border-0-on.png" />
+	<item name="border_1" up="default/shapestab/border-1-off.png" over="default/shapestab/border-1-over.png" down="default/shapestab/border-1-on.png" />
+	<item name="border_2" up="default/shapestab/border-2-off.png" over="default/shapestab/border-2-over.png" down="default/shapestab/border-2-on.png" />
+	<item name="border_3" up="default/shapestab/border-3-off.png" over="default/shapestab/border-3-over.png" down="default/shapestab/border-3-on.png" />
+	<item name="border_4" up="default/shapestab/border-4-off.png" over="default/shapestab/border-4-over.png" down="default/shapestab/border-4-on.png" />
+	<item name="fill_none" up="default/shapestab/fill-none-off.png" over="default/shapestab/fill-none-over.png" down="default/shapestab/fill-none-on.png" />
+	<item name="fill_solid" up="default/shapestab/fill-solid-off.png" over="default/shapestab/fill-solid-over.png" down="default/shapestab/fill-solid-on.png" />
+	<item name="colors" upC1="0x0097FD" upC2="0x0379C8" overC1="0x8B8B8B" overC2="0x595959" />
+	<item name="buttonsColor1" up="0x0097FD" upGradient="0x0379C8" over="0x8B8B8B" overGradient="0x595959" down="0x8B8B8B" downGradient="0x595959" fontColor="0x0196DE" border="0" borderColor="0xC3CBD0" />
+	<item name="buttonsColor2" up="0xEBF5FB" upGradient="0xC1D2DD" over="0x8B8B8B" overGradient="0x595959" down="0xEBF5FB" downGradient="0xEBF5FB" fontColor="0x0196DE" border="1" borderColor="0xC3CBD0" />
+</themes>

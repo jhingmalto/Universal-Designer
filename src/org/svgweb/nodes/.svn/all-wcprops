@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/649/trunk/src/org/svgweb/nodes
+END
+SVGPathNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/638/trunk/src/org/svgweb/nodes/SVGPathNode.as
+END
+SVGUseNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/594/trunk/src/org/svgweb/nodes/SVGUseNode.as
+END
+SVGRectNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/594/trunk/src/org/svgweb/nodes/SVGRectNode.as
+END
+SVGSVGNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/643/trunk/src/org/svgweb/nodes/SVGSVGNode.as
+END
+SVGAudioNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/643/trunk/src/org/svgweb/nodes/SVGAudioNode.as
+END
+SVGCircleNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/594/trunk/src/org/svgweb/nodes/SVGCircleNode.as
+END
+SVGAnimateMotionNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/594/trunk/src/org/svgweb/nodes/SVGAnimateMotionNode.as
+END
+SVGClipPathNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/594/trunk/src/org/svgweb/nodes/SVGClipPathNode.as
+END
+SVGScriptNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/644/trunk/src/org/svgweb/nodes/SVGScriptNode.as
+END
+SVGFontNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/644/trunk/src/org/svgweb/nodes/SVGFontNode.as
+END
+SVGAnimateColorNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/594/trunk/src/org/svgweb/nodes/SVGAnimateColorNode.as
+END
+SVGPatternNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/594/trunk/src/org/svgweb/nodes/SVGPatternNode.as
+END
+SVGAnimateNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/644/trunk/src/org/svgweb/nodes/SVGAnimateNode.as
+END
+SVGDescNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/594/trunk/src/org/svgweb/nodes/SVGDescNode.as
+END
+SVGDefsNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/594/trunk/src/org/svgweb/nodes/SVGDefsNode.as
+END
+SVGImageNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/594/trunk/src/org/svgweb/nodes/SVGImageNode.as
+END
+SVGGlyphNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/643/trunk/src/org/svgweb/nodes/SVGGlyphNode.as
+END
+SVGDOMTextNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/594/trunk/src/org/svgweb/nodes/SVGDOMTextNode.as
+END
+SVGTextNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/649/trunk/src/org/svgweb/nodes/SVGTextNode.as
+END
+SVGFilterNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/594/trunk/src/org/svgweb/nodes/SVGFilterNode.as
+END
+SVGTspanNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/594/trunk/src/org/svgweb/nodes/SVGTspanNode.as
+END
+SVGLineNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/594/trunk/src/org/svgweb/nodes/SVGLineNode.as
+END
+SVGPolygonNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/594/trunk/src/org/svgweb/nodes/SVGPolygonNode.as
+END
+SVGMaskNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/594/trunk/src/org/svgweb/nodes/SVGMaskNode.as
+END
+SVGPolylineNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/594/trunk/src/org/svgweb/nodes/SVGPolylineNode.as
+END
+SVGSetNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/594/trunk/src/org/svgweb/nodes/SVGSetNode.as
+END
+SVGGroupNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/638/trunk/src/org/svgweb/nodes/SVGGroupNode.as
+END
+SVGEllipseNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/594/trunk/src/org/svgweb/nodes/SVGEllipseNode.as
+END
+SVGUnknownNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/594/trunk/src/org/svgweb/nodes/SVGUnknownNode.as
+END
+SVGRadialGradient.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/644/trunk/src/org/svgweb/nodes/SVGRadialGradient.as
+END
+SVGSymbolNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/594/trunk/src/org/svgweb/nodes/SVGSymbolNode.as
+END
+SVGVideoNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/643/trunk/src/org/svgweb/nodes/SVGVideoNode.as
+END
+SVGAnimateTransformNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/644/trunk/src/org/svgweb/nodes/SVGAnimateTransformNode.as
+END
+SVGMissingGlyphNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/594/trunk/src/org/svgweb/nodes/SVGMissingGlyphNode.as
+END
+SVGANode.as
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/594/trunk/src/org/svgweb/nodes/SVGANode.as
+END
+SVGMetadataNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/594/trunk/src/org/svgweb/nodes/SVGMetadataNode.as
+END
+SVGTitleNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/594/trunk/src/org/svgweb/nodes/SVGTitleNode.as
+END
+SVGLinearGradient.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/644/trunk/src/org/svgweb/nodes/SVGLinearGradient.as
+END
+SVGFontFaceNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/594/trunk/src/org/svgweb/nodes/SVGFontFaceNode.as
+END
+SVGStopNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/594/trunk/src/org/svgweb/nodes/SVGStopNode.as
+END

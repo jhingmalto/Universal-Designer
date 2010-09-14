@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<product id="0" name="Dark T-Shirt" merchandiseId="152" sellPrice="18.99" marketplacePrice="20.00" currencyName="US Dollar" currencyCode="USD" currencySymbol="$" description="Look cool without breaking the bank. Our durable, high-quality, pre-shrunk 100% cotton t-shirt is what to wear when you want to go comfortably casual. Preshrunk, durable and guaranteed.&#xD;&#xA;&lt;ul&gt;&lt;li&gt;5.6 oz. 100% cotton&lt;/li&gt;&lt;li&gt;Standard fit&lt;/li&gt;&lt;/ul&gt;" memberId="0" storeId="" sectionId="0" defaultOrientation="Normal" defaultPerspective="Front" basePrice="18.99" shortCaption="Dark T-Shirt" defaultCaption="Dark T-Shirt" shortDescription="Dark T" categoryId="112" categoryCaption="Shirts (short)" stockAvailability="In Stock." stockAvailabilityStatusId="1" merchandiseAvailability="Limited Edition Item" merchandiseAvailabilityStatusId="2" defaultProductUri="http://images0.cafepress.com/product/0v0_240x240_Front_Color-Black.jpg" additionalPhotoCount="3" isCalendar="false" isBook="false" isCD="false" isAudioCD="false" isPoster="false" legacyHeightValue="0" legacyWidthValue="0" sortPriority="0" isSellable="true">
+  <color id="6" name="Black" default="true" colorSwatchUrl="/content/marketplace/img/swatches/swatch_darktshirt_black.gif" />
+  <color id="9" name="Red" default="false" colorSwatchUrl="/content/marketplace/img/swatches/swatch_darktshirt_red.gif" />
+  <color id="22" name="Cardinal" default="false" colorSwatchUrl="/content/marketplace/img/swatches/swatch_darktshirt_cardinal.gif" />
+  <color id="26" name="Navy" default="false" colorSwatchUrl="/content/marketplace/img/swatches/swatch_darktshirt_navy.gif" />
+  <color id="27" name="Military Green" default="false" colorSwatchUrl="/content/marketplace/img/swatches/swatch_darktshirt_green.gif" />
+  <color id="28" name="Brown" default="false" colorSwatchUrl="/content/marketplace/img/swatches/swatch_darktshirt_brown.gif" />
+  <color id="29" name="Royal" default="false" colorSwatchUrl="/content/marketplace/img/swatches/swatch_darktshirt_royal.gif" />
+  <color id="30" name="Charcoal" default="false" colorSwatchUrl="/content/marketplace/img/swatches/swatch_darktshirt_charcoal.gif" />
+  <color id="60" name="Kelly Green" default="false" colorSwatchUrl="/content/marketplace/img/swatches/swatch_152_c60.gif" />
+  <size id="4" name="Small" fullName="Small" shortName="S" default="false" priceDifference="0" displaySellPrice="$18.99" displayDiscountPrice="$18.99" />
+  <size id="5" name="Medium" fullName="Medium" shortName="M" default="false" priceDifference="0" displaySellPrice="$18.99" displayDiscountPrice="$18.99" />
+  <size id="6" name="Large" fullName="Large" shortName="L" default="true" priceDifference="0" displaySellPrice="$18.99" displayDiscountPrice="$18.99" />
+  <size id="7" name="X-Large" fullName="X-Large" shortName="XL" default="false" priceDifference="0" displaySellPrice="$18.99" displayDiscountPrice="$18.99" />
+  <size id="8" name="2X-Large" fullName="2X-Large (+$3.00)" shortName="2XL" default="false" priceDifference="3" displaySellPrice="$21.99" displayDiscountPrice="$21.99" />
+  <size id="9" name="3X-Large" fullName="3X-Large (+$3.00)" shortName="3XL" default="false" priceDifference="3" displaySellPrice="$21.99" displayDiscountPrice="$21.99" />
+  <perspective name="Front" pixelWidth="480" pixelHeight="480" sortOrder="0" isEditable="true" defaultMediaRegion="FrontCenter" label="F" wildcardProductUri="http://images0.cafepress.com/nocache/product/0v0_240x240_Front_Color-Black.jpg">
+    <showsMediaRegion>FrontCenter</showsMediaRegion>
+    <showsMediaRegion>FrontPocket</showsMediaRegion>
+  </perspective>
+  <perspective name="Back" pixelWidth="480" pixelHeight="480" sortOrder="0" isEditable="false" defaultMediaRegion="BackCenter" label="B" wildcardProductUri="http://images0.cafepress.com/nocache/product/0v0_240x240_Back_Color-Black.jpg">
+    <showsMediaRegion>BackCenter</showsMediaRegion>
+  </perspective>
+  <mediaConfiguration dpi="200" height="10" width="10" name="BackCenter" designId="0" alignment="TopCenter" isEditable="true" perspectives="Back" />
+  <mediaConfiguration dpi="100" height="10" width="10" name="FrontCenter" designId="0" alignment="TopCenter" isEditable="true" perspectives="Front" />
+  <productImage colorId="6" perspectiveName="Front" imageSize="480" productUrl="http://images0.cafepress.com/product/0v0_480x480_Front_Color-Black.jpg" />
+  <productImage colorId="9" perspectiveName="Front" imageSize="480" productUrl="http://images0.cafepress.com/product/0v0_480x480_Front_Color-Red.jpg" />
+  <productImage colorId="22" perspectiveName="Front" imageSize="480" productUrl="http://images0.cafepress.com/product/0v0_480x480_Front_Color-Cardinal.jpg" />
+  <productImage colorId="26" perspectiveName="Front" imageSize="480" productUrl="http://images0.cafepress.com/product/0v0_480x480_Front_Color-Navy.jpg" />
+  <productImage colorId="27" perspectiveName="Front" imageSize="480" productUrl="http://images0.cafepress.com/product/0v0_480x480_Front_Color-MilitaryGreen.jpg" />
+  <productImage colorId="28" perspectiveName="Front" imageSize="480" productUrl="http://images0.cafepress.com/product/0v0_480x480_Front_Color-Brown.jpg" />
+  <productImage colorId="29" perspectiveName="Front" imageSize="480" productUrl="http://images0.cafepress.com/product/0v0_480x480_Front_Color-Royal.jpg" />
+  <productImage colorId="30" perspectiveName="Front" imageSize="480" productUrl="http://images0.cafepress.com/product/0v0_480x480_Front_Color-Charcoal.jpg" />
+  <productImage colorId="60" perspectiveName="Front" imageSize="480" productUrl="http://images0.cafepress.com/product/0v0_480x480_Front_Color-KellyGreen.jpg" />
+  <productImage colorId="6" perspectiveName="Front" imageSize="350" productUrl="http://images0.cafepress.com/product/0v0_350x350_Front_Color-Black.jpg" />
+  <productImage colorId="9" perspectiveName="Front" imageSize="350" productUrl="http://images0.cafepress.com/product/0v0_350x350_Front_Color-Red.jpg" />
+  <productImage colorId="22" perspectiveName="Front" imageSize="350" productUrl="http://images0.cafepress.com/product/0v0_350x350_Front_Color-Cardinal.jpg" />
+  <productImage colorId="26" perspectiveName="Front" imageSize="350" productUrl="http://images0.cafepress.com/product/0v0_350x350_Front_Color-Navy.jpg" />
+  <productImage colorId="27" perspectiveName="Front" imageSize="350" productUrl="http://images0.cafepress.com/product/0v0_350x350_Front_Color-MilitaryGreen.jpg" />
+  <productImage colorId="28" perspectiveName="Front" imageSize="350" productUrl="http://images0.cafepress.com/product/0v0_350x350_Front_Color-Brown.jpg" />
+  <productImage colorId="29" perspectiveName="Front" imageSize="350" productUrl="http://images0.cafepress.com/product/0v0_350x350_Front_Color-Royal.jpg" />
+  <productImage colorId="30" perspectiveName="Front" imageSize="350" productUrl="http://images0.cafepress.com/product/0v0_350x350_Front_Color-Charcoal.jpg" />
+  <productImage colorId="60" perspectiveName="Front" imageSize="350" productUrl="http://images0.cafepress.com/product/0v0_350x350_Front_Color-KellyGreen.jpg" />
+  <productImage colorId="6" perspectiveName="Front" imageSize="240" productUrl="http://images0.cafepress.com/product/0v0_240x240_Front_Color-Black.jpg" />
+  <productImage colorId="9" perspectiveName="Front" imageSize="240" productUrl="http://images0.cafepress.com/product/0v0_240x240_Front_Color-Red.jpg" />
+  <productImage colorId="22" perspectiveName="Front" imageSize="240" productUrl="http://images0.cafepress.com/product/0v0_240x240_Front_Color-Cardinal.jpg" />
+  <productImage colorId="26" perspectiveName="Front" imageSize="240" productUrl="http://images0.cafepress.com/product/0v0_240x240_Front_Color-Navy.jpg" />
+  <productImage colorId="27" perspectiveName="Front" imageSize="240" productUrl="http://images0.cafepress.com/product/0v0_240x240_Front_Color-MilitaryGreen.jpg" />
+  <productImage colorId="28" perspectiveName="Front" imageSize="240" productUrl="http://images0.cafepress.com/product/0v0_240x240_Front_Color-Brown.jpg" />
+  <productImage colorId="29" perspectiveName="Front" imageSize="240" productUrl="http://images0.cafepress.com/product/0v0_240x240_Front_Color-Royal.jpg" />
+  <productImage colorId="30" perspectiveName="Front" imageSize="240" productUrl="http://images0.cafepress.com/product/0v0_240x240_Front_Color-Charcoal.jpg" />
+  <productImage colorId="60" perspectiveName="Front" imageSize="240" productUrl="http://images0.cafepress.com/product/0v0_240x240_Front_Color-KellyGreen.jpg" />
+  <productImage colorId="6" perspectiveName="Front" imageSize="150" productUrl="http://images0.cafepress.com/product/0v0_150x150_Front_Color-Black.jpg" />
+  <productImage colorId="9" perspectiveName="Front" imageSize="150" productUrl="http://images0.cafepress.com/product/0v0_150x150_Front_Color-Red.jpg" />
+  <productImage colorId="22" perspectiveName="Front" imageSize="150" productUrl="http://images0.cafepress.com/product/0v0_150x150_Front_Color-Cardinal.jpg" />
+  <productImage colorId="26" perspectiveName="Front" imageSize="150" productUrl="http://images0.cafepress.com/product/0v0_150x150_Front_Color-Navy.jpg" />
+  <productImage colorId="27" perspectiveName="Front" imageSize="150" productUrl="http://images0.cafepress.com/product/0v0_150x150_Front_Color-MilitaryGreen.jpg" />
+  <productImage colorId="28" perspectiveName="Front" imageSize="150" productUrl="http://images0.cafepress.com/product/0v0_150x150_Front_Color-Brown.jpg" />
+  <productImage colorId="29" perspectiveName="Front" imageSize="150" productUrl="http://images0.cafepress.com/product/0v0_150x150_Front_Color-Royal.jpg" />
+  <productImage colorId="30" perspectiveName="Front" imageSize="150" productUrl="http://images0.cafepress.com/product/0v0_150x150_Front_Color-Charcoal.jpg" />
+  <productImage colorId="60" perspectiveName="Front" imageSize="150" productUrl="http://images0.cafepress.com/product/0v0_150x150_Front_Color-KellyGreen.jpg" />
+  <productImage colorId="6" perspectiveName="Front" imageSize="100" productUrl="http://images0.cafepress.com/product/0v0_100x100_Front_Color-Black.jpg" />
+  <productImage colorId="9" perspectiveName="Front" imageSize="100" productUrl="http://images0.cafepress.com/product/0v0_100x100_Front_Color-Red.jpg" />
+  <productImage colorId="22" perspectiveName="Front" imageSize="100" productUrl="http://images0.cafepress.com/product/0v0_100x100_Front_Color-Cardinal.jpg" />
+  <productImage colorId="26" perspectiveName="Front" imageSize="100" productUrl="http://images0.cafepress.com/product/0v0_100x100_Front_Color-Navy.jpg" />
+  <productImage colorId="27" perspectiveName="Front" imageSize="100" productUrl="http://images0.cafepress.com/product/0v0_100x100_Front_Color-MilitaryGreen.jpg" />
+  <productImage colorId="28" perspectiveName="Front" imageSize="100" productUrl="http://images0.cafepress.com/product/0v0_100x100_Front_Color-Brown.jpg" />
+  <productImage colorId="29" perspectiveName="Front" imageSize="100" productUrl="http://images0.cafepress.com/product/0v0_100x100_Front_Color-Royal.jpg" />
+  <productImage colorId="30" perspectiveName="Front" imageSize="100" productUrl="http://images0.cafepress.com/product/0v0_100x100_Front_Color-Charcoal.jpg" />
+  <productImage colorId="60" perspectiveName="Front" imageSize="100" productUrl="http://images0.cafepress.com/product/0v0_100x100_Front_Color-KellyGreen.jpg" />
+  <productImage colorId="6" perspectiveName="Front" imageSize="48" productUrl="http://images0.cafepress.com/product/0v0_48x48_Front_Color-Black.jpg" />
+  <productImage colorId="9" perspectiveName="Front" imageSize="48" productUrl="http://images0.cafepress.com/product/0v0_48x48_Front_Color-Red.jpg" />
+  <productImage colorId="22" perspectiveName="Front" imageSize="48" productUrl="http://images0.cafepress.com/product/0v0_48x48_Front_Color-Cardinal.jpg" />
+  <productImage colorId="26" perspectiveName="Front" imageSize="48" productUrl="http://images0.cafepress.com/product/0v0_48x48_Front_Color-Navy.jpg" />
+  <productImage colorId="27" perspectiveName="Front" imageSize="48" productUrl="http://images0.cafepress.com/product/0v0_48x48_Front_Color-MilitaryGreen.jpg" />
+  <productImage colorId="28" perspectiveName="Front" imageSize="48" productUrl="http://images0.cafepress.com/product/0v0_48x48_Front_Color-Brown.jpg" />
+  <productImage colorId="29" perspectiveName="Front" imageSize="48" productUrl="http://images0.cafepress.com/product/0v0_48x48_Front_Color-Royal.jpg" />
+  <productImage colorId="30" perspectiveName="Front" imageSize="48" productUrl="http://images0.cafepress.com/product/0v0_48x48_Front_Color-Charcoal.jpg" />
+  <productImage colorId="60" perspectiveName="Front" imageSize="48" productUrl="http://images0.cafepress.com/product/0v0_48x48_Front_Color-KellyGreen.jpg" />
+  <productImage colorId="6" perspectiveName="Back" imageSize="480" productUrl="http://images0.cafepress.com/product/0v0_480x480_Back_Color-Black.jpg" />
+  <productImage colorId="9" perspectiveName="Back" imageSize="480" productUrl="http://images0.cafepress.com/product/0v0_480x480_Back_Color-Red.jpg" />
+  <productImage colorId="22" perspectiveName="Back" imageSize="480" productUrl="http://images0.cafepress.com/product/0v0_480x480_Back_Color-Cardinal.jpg" />
+  <productImage colorId="26" perspectiveName="Back" imageSize="480" productUrl="http://images0.cafepress.com/product/0v0_480x480_Back_Color-Navy.jpg" />
+  <productImage colorId="27" perspectiveName="Back" imageSize="480" productUrl="http://images0.cafepress.com/product/0v0_480x480_Back_Color-MilitaryGreen.jpg" />
+  <productImage colorId="28" perspectiveName="Back" imageSize="480" productUrl="http://images0.cafepress.com/product/0v0_480x480_Back_Color-Brown.jpg" />
+  <productImage colorId="29" perspectiveName="Back" imageSize="480" productUrl="http://images0.cafepress.com/product/0v0_480x480_Back_Color-Royal.jpg" />
+  <productImage colorId="30" perspectiveName="Back" imageSize="480" productUrl="http://images0.cafepress.com/product/0v0_480x480_Back_Color-Charcoal.jpg" />
+  <productImage colorId="60" perspectiveName="Back" imageSize="480" productUrl="http://images0.cafepress.com/product/0v0_480x480_Back_Color-KellyGreen.jpg" />
+  <productImage colorId="6" perspectiveName="Back" imageSize="350" productUrl="http://images0.cafepress.com/product/0v0_350x350_Back_Color-Black.jpg" />
+  <productImage colorId="9" perspectiveName="Back" imageSize="350" productUrl="http://images0.cafepress.com/product/0v0_350x350_Back_Color-Red.jpg" />
+  <productImage colorId="22" perspectiveName="Back" imageSize="350" productUrl="http://images0.cafepress.com/product/0v0_350x350_Back_Color-Cardinal.jpg" />
+  <productImage colorId="26" perspectiveName="Back" imageSize="350" productUrl="http://images0.cafepress.com/product/0v0_350x350_Back_Color-Navy.jpg" />
+  <productImage colorId="27" perspectiveName="Back" imageSize="350" productUrl="http://images0.cafepress.com/product/0v0_350x350_Back_Color-MilitaryGreen.jpg" />
+  <productImage colorId="28" perspectiveName="Back" imageSize="350" productUrl="http://images0.cafepress.com/product/0v0_350x350_Back_Color-Brown.jpg" />
+  <productImage colorId="29" perspectiveName="Back" imageSize="350" productUrl="http://images0.cafepress.com/product/0v0_350x350_Back_Color-Royal.jpg" />
+  <productImage colorId="30" perspectiveName="Back" imageSize="350" productUrl="http://images0.cafepress.com/product/0v0_350x350_Back_Color-Charcoal.jpg" />
+  <productImage colorId="60" perspectiveName="Back" imageSize="350" productUrl="http://images0.cafepress.com/product/0v0_350x350_Back_Color-KellyGreen.jpg" />
+  <productImage colorId="6" perspectiveName="Back" imageSize="240" productUrl="http://images0.cafepress.com/product/0v0_240x240_Back_Color-Black.jpg" />
+  <productImage colorId="9" perspectiveName="Back" imageSize="240" productUrl="http://images0.cafepress.com/product/0v0_240x240_Back_Color-Red.jpg" />
+  <productImage colorId="22" perspectiveName="Back" imageSize="240" productUrl="http://images0.cafepress.com/product/0v0_240x240_Back_Color-Cardinal.jpg" />
+  <productImage colorId="26" perspectiveName="Back" imageSize="240" productUrl="http://images0.cafepress.com/product/0v0_240x240_Back_Color-Navy.jpg" />
+  <productImage colorId="27" perspectiveName="Back" imageSize="240" productUrl="http://images0.cafepress.com/product/0v0_240x240_Back_Color-MilitaryGreen.jpg" />
+  <productImage colorId="28" perspectiveName="Back" imageSize="240" productUrl="http://images0.cafepress.com/product/0v0_240x240_Back_Color-Brown.jpg" />
+  <productImage colorId="29" perspectiveName="Back" imageSize="240" productUrl="http://images0.cafepress.com/product/0v0_240x240_Back_Color-Royal.jpg" />
+  <productImage colorId="30" perspectiveName="Back" imageSize="240" productUrl="http://images0.cafepress.com/product/0v0_240x240_Back_Color-Charcoal.jpg" />
+  <productImage colorId="60" perspectiveName="Back" imageSize="240" productUrl="http://images0.cafepress.com/product/0v0_240x240_Back_Color-KellyGreen.jpg" />
+  <productImage colorId="6" perspectiveName="Back" imageSize="150" productUrl="http://images0.cafepress.com/product/0v0_150x150_Back_Color-Black.jpg" />
+  <productImage colorId="9" perspectiveName="Back" imageSize="150" productUrl="http://images0.cafepress.com/product/0v0_150x150_Back_Color-Red.jpg" />
+  <productImage colorId="22" perspectiveName="Back" imageSize="150" productUrl="http://images0.cafepress.com/product/0v0_150x150_Back_Color-Cardinal.jpg" />
+  <productImage colorId="26" perspectiveName="Back" imageSize="150" productUrl="http://images0.cafepress.com/product/0v0_150x150_Back_Color-Navy.jpg" />
+  <productImage colorId="27" perspectiveName="Back" imageSize="150" productUrl="http://images0.cafepress.com/product/0v0_150x150_Back_Color-MilitaryGreen.jpg" />
+  <productImage colorId="28" perspectiveName="Back" imageSize="150" productUrl="http://images0.cafepress.com/product/0v0_150x150_Back_Color-Brown.jpg" />
+  <productImage colorId="29" perspectiveName="Back" imageSize="150" productUrl="http://images0.cafepress.com/product/0v0_150x150_Back_Color-Royal.jpg" />
+  <productImage colorId="30" perspectiveName="Back" imageSize="150" productUrl="http://images0.cafepress.com/product/0v0_150x150_Back_Color-Charcoal.jpg" />
+  <productImage colorId="60" perspectiveName="Back" imageSize="150" productUrl="http://images0.cafepress.com/product/0v0_150x150_Back_Color-KellyGreen.jpg" />
+  <productImage colorId="6" perspectiveName="Back" imageSize="100" productUrl="http://images0.cafepress.com/product/0v0_100x100_Back_Color-Black.jpg" />
+  <productImage colorId="9" perspectiveName="Back" imageSize="100" productUrl="http://images0.cafepress.com/product/0v0_100x100_Back_Color-Red.jpg" />
+  <productImage colorId="22" perspectiveName="Back" imageSize="100" productUrl="http://images0.cafepress.com/product/0v0_100x100_Back_Color-Cardinal.jpg" />
+  <productImage colorId="26" perspectiveName="Back" imageSize="100" productUrl="http://images0.cafepress.com/product/0v0_100x100_Back_Color-Navy.jpg" />
+  <productImage colorId="27" perspectiveName="Back" imageSize="100" productUrl="http://images0.cafepress.com/product/0v0_100x100_Back_Color-MilitaryGreen.jpg" />
+  <productImage colorId="28" perspectiveName="Back" imageSize="100" productUrl="http://images0.cafepress.com/product/0v0_100x100_Back_Color-Brown.jpg" />
+  <productImage colorId="29" perspectiveName="Back" imageSize="100" productUrl="http://images0.cafepress.com/product/0v0_100x100_Back_Color-Royal.jpg" />
+  <productImage colorId="30" perspectiveName="Back" imageSize="100" productUrl="http://images0.cafepress.com/product/0v0_100x100_Back_Color-Charcoal.jpg" />
+  <productImage colorId="60" perspectiveName="Back" imageSize="100" productUrl="http://images0.cafepress.com/product/0v0_100x100_Back_Color-KellyGreen.jpg" />
+  <productImage colorId="6" perspectiveName="Back" imageSize="48" productUrl="http://images0.cafepress.com/product/0v0_48x48_Back_Color-Black.jpg" />
+  <productImage colorId="9" perspectiveName="Back" imageSize="48" productUrl="http://images0.cafepress.com/product/0v0_48x48_Back_Color-Red.jpg" />
+  <productImage colorId="22" perspectiveName="Back" imageSize="48" productUrl="http://images0.cafepress.com/product/0v0_48x48_Back_Color-Cardinal.jpg" />
+  <productImage colorId="26" perspectiveName="Back" imageSize="48" productUrl="http://images0.cafepress.com/product/0v0_48x48_Back_Color-Navy.jpg" />
+  <productImage colorId="27" perspectiveName="Back" imageSize="48" productUrl="http://images0.cafepress.com/product/0v0_48x48_Back_Color-MilitaryGreen.jpg" />
+  <productImage colorId="28" perspectiveName="Back" imageSize="48" productUrl="http://images0.cafepress.com/product/0v0_48x48_Back_Color-Brown.jpg" />
+  <productImage colorId="29" perspectiveName="Back" imageSize="48" productUrl="http://images0.cafepress.com/product/0v0_48x48_Back_Color-Royal.jpg" />
+  <productImage colorId="30" perspectiveName="Back" imageSize="48" productUrl="http://images0.cafepress.com/product/0v0_48x48_Back_Color-Charcoal.jpg" />
+  <productImage colorId="60" perspectiveName="Back" imageSize="48" productUrl="http://images0.cafepress.com/product/0v0_48x48_Back_Color-KellyGreen.jpg" />
+  <stockAvailabilityOverride colorNumber="29" sizeNumber="4" productTypeNumber="152" stockAvailabilityNumber="1" stockAvailabilityMessage="In Stock." allowAddToCart="true" />
+  <stockAvailabilityOverride colorNumber="27" sizeNumber="9" productTypeNumber="152" stockAvailabilityNumber="100" stockAvailabilityMessage="No Longer Available" allowAddToCart="false" />
+</product>

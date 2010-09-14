@@ -1,0 +1,13 @@
+<shapes>   
+	<shape name="arrow" src="assets/library/shapes/vn0.svg" />
+	<shape name="arrow" src="assets/library/shapes/shape_arrow.svg" />
+	<shape name="burst" src="assets/library/shapes/shape_burst.svg" />
+	<shape name="circle" src="assets/library/shapes/shape_circle.svg" />
+	<shape name="cloud" src="assets/library/shapes/shape_cloud.svg" />
+	<shape name="heart" src="assets/library/shapes/shape_heart.svg" />
+	<shape name="no" src="assets/library/shapes/shape_no.svg" />
+	<shape name="square" src="assets/library/shapes/shape_square.svg" />
+	<shape name="star" src="assets/library/shapes/shape_star.svg" />
+	<shape name="stop" src="assets/library/shapes/shape_stop.svg" />
+	<shape name="triangle" src="assets/library/shapes/shape_triangle.svg" />
+</shapes>

@@ -1,0 +1,849 @@
+<merchandise>   
+  
+  <!-- ======================================= -->  
+  
+  <!-- 
+    <attribute name="designRegionFudgeFactor" value="1.235"/>
+  -->
+  
+  <merch name="short_sleeve" side="front" src="assets/products/basic_stack_f.swf"
+    xoffsetPercent="0.3363" 
+    yoffsetPercent="0.1248" 
+    xoffsetDesignAbsolute="340.2"  
+    yoffsetDesignAbsolute="171.52" 
+    shirtTopMargin="0.1656" 
+    designRegionScale="0.7163" 
+    shirtScale="2.4"
+    printWidth="10"
+    printHeight="10">
+  </merch>
+  
+  <merch name="short_sleeve" side="back" src="assets/products/basic_stack_b.swf"
+    xoffsetPercent="0.3363" 
+    yoffsetPercent="0.1248" 
+    xoffsetDesignAbsolute="340.2" 
+    yoffsetDesignAbsolute="171.52" 
+    shirtTopMargin="0.1656" 
+    designRegionScale="0.7163" 
+    shirtScale="2.4"
+    printWidth="10"
+    printHeight="10"/>
+                      
+  <!-- ======================================= -->
+  
+  <merch name="ringer" side="front" 
+    xoffsetPercent="0.3363" 
+    yoffsetPercent="0.1248" 
+    xoffsetDesignAbsolute="340.2" 
+    yoffsetDesignAbsolute="171.52" 
+    shirtTopMargin="0.1656" 
+    designRegionScale="0.7163" 
+    shirtScale="2.4"
+    printWidth="10"
+    printHeight="10"/>
+
+  <merch name="ringer" side="back" 
+    xoffsetPercent="0.3363" 
+    yoffsetPercent="0.1248" 
+    xoffsetDesignAbsolute="340.2" 
+    yoffsetDesignAbsolute="171.52" 
+    shirtTopMargin="0.1656" 
+    designRegionScale="0.7163" 
+    shirtScale="2.4"
+    printWidth="10"
+    printHeight="10"/>       
+    
+  <!-- ======================================= -->
+  
+  <merch name="long_sleeve" alias="sweatshirt" side="front" 
+    xoffsetPercent="0.3422" 
+    yoffsetPercent="0.117" 
+    xoffsetDesignAbsolute="345.6" 
+    yoffsetDesignAbsolute="171.52" 
+    shirtTopMargin="0.1656" 
+    designRegionScale="0.7163" 
+    shirtScale="2.4"
+    printWidth="10"
+    printHeight="10"/>
+
+  <merch name="long_sleeve" alias="sweatshirt" side="back"
+    xoffsetPercent="0.3422" 
+    yoffsetPercent="0.117" 
+    xoffsetDesignAbsolute="345.6" 
+    yoffsetDesignAbsolute="171.52" 
+    shirtTopMargin="0.1656" 
+    designRegionScale="0.7163" 
+    shirtScale="2.4"
+    printWidth="10"
+    printHeight="10"/>
+
+  <!-- ======================================= -->
+
+  <merch name="jersey" side="front"
+    xoffsetPercent="0.3304" 
+    yoffsetPercent="0.13" 
+    xoffsetDesignAbsolute="340.2" 
+    yoffsetDesignAbsolute="171.52" 
+    shirtTopMargin="0.1656" 
+    designRegionScale="0.7163" 
+    shirtScale="2.4"
+    printWidth="10"
+    printHeight="10"/>
+	<!-- ======================================= -->	
+  <merch name="jersey" side="back"
+    xoffsetPercent="0.3304" 
+    yoffsetPercent="0.13" 
+    xoffsetDesignAbsolute="340.2" 
+    yoffsetDesignAbsolute="171.52"
+    shirtTopMargin="0.1656" 
+    designRegionScale="0.7163" 
+    shirtScale="2.4"
+    printWidth="10"
+    printHeight="10"/>
+
+  <!-- ======================================= -->
+  <merch name="zip_hoodie" side="front" 
+    xoffsetPercent="0.3363" 
+    yoffsetPercent="0.1976" 
+    xoffsetDesignAbsolute="334.8" 
+    yoffsetDesignAbsolute="280" 
+    shirtTopMargin="0.1404" 
+    designRegionScale="0.6422" 
+    shirtScale="2.4"
+    printWidth="10"
+    printHeight="10"/>
+	<!-- ======================================= -->	
+    
+  <merch name="zip_hoodie" side="back"
+     xoffsetPercent="0.3363"
+     yoffsetPercent="0.1976"
+     xoffsetDesignAbsolute="343"
+     yoffsetDesignAbsolute="280"
+     shirtTopMargin="0.1404"
+     designRegionScale="0.6422"
+     designWidth="380"
+     designHeight="380"
+     printWidth="10"
+     printHeight="10"
+     shirtScale="2.4"/>    
+
+ <!-- ======================================= -->
+  <merch name="hoodie" side="front" 
+    xoffsetPercent="0.3245" 
+    yoffsetPercent="0.1638" 
+    xoffsetDesignAbsolute="334.8" 
+    yoffsetDesignAbsolute="220.16" 
+    shirtTopMargin="0.1404" 
+    designRegionScale="0.6175" 
+    shirtScale="2.4"
+    printWidth="10"
+    printHeight="10"/>
+	<!-- ======================================= -->	
+  <merch name="hoodie" side="back" 
+    xoffsetPercent="0.3245" 
+    yoffsetPercent="0.1638" 
+    xoffsetDesignAbsolute="329.4" 
+    yoffsetDesignAbsolute="240.64" 
+    shirtTopMargin="0.1404" 
+    designRegionScale="0.6175" 
+    shirtScale="2.4"
+    printWidth="10"
+    printHeight="10"/>
+
+   <!-- ======================================= -->
+
+  <merch name="maternity" side="front"
+    xoffsetPercent="0.3886"
+    yoffsetPercent="0.1486"
+    xoffsetDesignAbsolute="380"
+    yoffsetDesignAbsolute="171"
+    shirtTopMargin="0.1404"
+    designRegionScale="0.615"
+    designWidth="300"
+    designHeight="300"
+    printWidth="10"
+    printHeight="10"
+    pocketWidth="110"
+    pocketHeight="110"
+    shirtScale="3.286"/>
+	<!-- ======================================= -->	
+	<merch name="maternity" side="back"
+    xoffsetPercent="0.38"
+    yoffsetPercent="0.12"
+    xoffsetDesignAbsolute="383"
+    yoffsetDesignAbsolute="106"
+    shirtTopMargin="0.1626"
+    designRegionScale="0.635"
+    designWidth="300"
+    designHeight="300"
+    printWidth="10"
+    printHeight="10"
+    shirtScale="3.229"/>
+    
+<!-- ======================================= -->
+<merch name="womens_vneck" side="front"
+    xoffsetPercent="0.3771"
+    yoffsetPercent="0.1686"
+    xoffsetDesignAbsolute="340"
+    yoffsetDesignAbsolute="197"
+    shirtTopMargin="0.1656"
+    designRegionScale="0.605"
+    designWidth="380"
+    designHeight="380"
+    printWidth="10"
+    printHeight="10"
+    shirtScale="2.714"/>
+	<!-- ======================================= -->	
+ <merch name="womens_vneck" side="back"
+    xoffsetPercent="0.3771"
+    yoffsetPercent="0.1371"
+    xoffsetDesignAbsolute="340"
+    yoffsetDesignAbsolute="140"
+    shirtTopMargin="0.1656"
+    designRegionScale="0.605"
+    designWidth="380"
+    designHeight="380"
+    printWidth="10"
+    printHeight="10"
+    shirtScale="2.714"/>
+
+	<!-- ======================================= -->
+	
+	
+	<merch name="womens_vneck_plus" side="front"
+  	xoffsetPercent="0.3429"
+    yoffsetPercent="0.1857"
+    xoffsetDesignAbsolute="334"
+    yoffsetDesignAbsolute="203"
+    shirtTopMargin="0.1681"
+    designRegionScale="0.685"
+    designWidth="400"
+    designHeight="400"
+    printWidth="10"
+    printHeight="10"
+    shirtScale="2.4"/>
+	<!-- ======================================= -->	
+	<merch name="womens_vneck_plus" side="back"
+    xoffsetPercent="0.36"
+    yoffsetPercent="0.1429"
+    xoffsetDesignAbsolute="340"
+    yoffsetDesignAbsolute="151"
+    shirtTopMargin="0.1681"
+    designRegionScale="0.685"
+    designWidth="400"
+    designHeight="400"
+    printWidth="10"
+    printHeight="10"
+    shirtScale="2.4"/>
+	
+	<!-- ======================================= -->	
+	
+  <merch name="cap" side="front" 
+    xoffsetPercent="0.3245" 
+    yoffsetPercent="0.120466666666667" 
+    xoffsetDesignAbsolute="278.1" 
+    yoffsetDesignAbsolute="180.48" 
+    shirtTopMargin="0.1512" 
+    designRegionScale="0.515" 
+    shirtScale="2.4"
+    designWidth="500"
+    designHeight="200"
+    printWidth="5"
+    printHeight="2"/>
+	<!-- ======================================= -->	
+
+  <merch name="apron" side="front" 
+    xoffsetPercent="0.33335" 
+    yoffsetPercent="0.26" 
+    xoffsetDesignAbsolute="421.2" 
+    yoffsetDesignAbsolute="320" 
+    shirtTopMargin="0.1548" 
+    designRegionScale="1" 
+    designWidth="220" 
+    designHeight="220" 
+    shirtScale="2.4"
+    printWidth="10"
+    printHeight="10"/>
+	<!-- ======================================= -->	
+    
+	<merch name="gym_bag" side="front"
+    xoffsetPercent="0.3286"
+    yoffsetPercent="0.1257"
+    xoffsetDesignAbsolute="389"
+    yoffsetDesignAbsolute="186"
+    shirtTopMargin="0.1656"
+    designRegionScale="0.91"
+    designWidth="280"
+    designHeight="280"
+    printWidth="7"
+    printHeight="7"
+    shirtScale="2.4"/>
+	
+		<!-- ======================================= -->	
+		
+	<merch name="sigg_6" side="front"
+    xoffsetPercent="0.3114"
+    yoffsetPercent="0.2914"
+    xoffsetDesignAbsolute="417"
+    yoffsetDesignAbsolute="325"
+    shirtTopMargin="0.1656"
+    designRegionScale="0.7163"
+    designWidth="230"
+    designHeight="425"
+    printWidth="2.3"
+    printHeight="4.25"
+    shirtScale="2.229"/>
+		
+  <!-- ======================================= -->	
+
+  <!-- original beach_tote with smaller design area -->
+  <!-- <merch name="beach_tote" side="front"
+    xoffsetPercent="0.2486"
+    yoffsetPercent="0.2829"
+    xoffsetDesignAbsolute="397"
+    yoffsetDesignAbsolute="471"
+    shirtTopMargin="0.17"
+    designRegionScale="0.845"
+    designWidth="320"
+    designHeight="320"
+    printWidth="7"
+    printHeight="7"
+    shirtScale="1.714"/> -->
+    
+  <!-- temporary beach_tote description with 10x10 design area -->
+  <merch name="beach_tote" side="front"
+    xoffsetPercent="0.2486"
+    yoffsetPercent="0.2914"
+    xoffsetDesignAbsolute="320"
+    yoffsetDesignAbsolute="343"
+    shirtTopMargin="0.17"
+    designRegionScale="0.845"
+    designWidth="450"
+    designHeight="450"
+    printWidth="10"
+    printHeight="10"
+    shirtScale="1.714"/>    
+
+  <merch name="beach_tote" side="back"
+     xoffsetPercent="0.2486"
+     yoffsetPercent="0.2914"
+     xoffsetDesignAbsolute="320"
+     yoffsetDesignAbsolute="343"
+     shirtTopMargin="0.17"
+     designRegionScale="0.845"
+     designWidth="450"
+     designHeight="450"
+     printWidth="10"
+     printHeight="10"
+     shirtScale="1.714"/>
+
+  <!-- ======================================= -->	
+			
+			
+  <merch name="bib" side="front" 
+    xoffsetPercent="0.3245" 
+    yoffsetPercent="0.325" 
+    xoffsetDesignAbsolute="348.3" 
+    yoffsetDesignAbsolute="350" 
+    shirtTopMargin="0.0792" 
+    designRegionScale="0.615" 
+    designWidth="360" 
+    designHeight="504" 
+    shirtScale="2.4"
+    printWidth="5"
+    printHeight="7"/>
+    
+	<!-- ======================================= -->	
+	
+  <merch name="infantbodysuit" side="front" 
+    xoffsetPercent="0.3363" 
+    yoffsetPercent="0.1976" 
+    xoffsetDesignAbsolute="351" 
+    yoffsetDesignAbsolute="186.24" 
+    shirtTopMargin="0.198" 
+    designRegionScale="0.78" 
+    designWidth="350" 
+    designHeight="350" 
+    shirtScale="2.4"
+    printWidth="7"
+    printHeight="7"/>
+    
+  <merch name="infantbodysuit" side="back" 
+    xoffsetPercent="0.3363" 
+    yoffsetPercent="0.1976" 
+    xoffsetDesignAbsolute="351" 
+    yoffsetDesignAbsolute="186.24" 
+    shirtTopMargin="0.198" 
+    designRegionScale="0.78" 
+    designWidth="350" 
+    designHeight="350" 
+    shirtScale="2.4"
+    printWidth="7"
+    printHeight="7"/>
+	<!-- ======================================= -->	
+    
+  <merch name="messenger_bag" side="front" 
+    xoffsetPercent="0.34515" 
+    yoffsetPercent="0.1027" 
+    xoffsetDesignAbsolute="342.9" 
+    yoffsetDesignAbsolute="74.88" 
+    shirtTopMargin="0.198" 
+    designRegionScale="0.58" 
+    designWidth="420" 
+    designHeight="420" 
+    shirtScale="2.4"
+    printWidth="10"
+    printHeight="10"/>
+      	<!-- ======================================= -->	
+  <merch name="pillow" side="front" 
+    xoffsetPercent="0.3245" 
+    yoffsetPercent="0.1898" 
+    xoffsetDesignAbsolute="251"
+    yoffsetDesignAbsolute="143"
+    shirtTopMargin="0.198" 
+    designRegionScale="0.485" 
+    designWidth="557"
+    designHeight="557"
+    shirtScale="2.4"
+    printWidth="11"
+    printHeight="11"/>
+    	<!-- ======================================= -->	
+  <merch name="tank" side="front" 
+    xoffsetPercent="0.33335" 
+    yoffsetPercent="0.2678" 
+    xoffsetDesignAbsolute="375.3" 
+    yoffsetDesignAbsolute="270.72" 
+    shirtTopMargin="0.1422" 
+    designRegionScale="0.7163" 
+    designWidth="330" 
+    designHeight="330" 
+    shirtScale="2.4"
+    printWidth="10"
+    printHeight="10"/>
+    	<!-- ======================================= -->	
+  <merch name="tank" side="back" 
+    xoffsetPercent="0.33335" 
+    yoffsetPercent="0.2678" 
+    xoffsetDesignAbsolute="375.3" 
+    yoffsetDesignAbsolute="270.72" 
+    shirtTopMargin="0.1422" 
+    designRegionScale="0.7163" 
+    designWidth="330" 
+    designHeight="330" 
+    shirtScale="2.4"
+    printWidth="10"
+    printHeight="10"/>    
+    	<!-- ======================================= -->	
+  <merch name="mug" side="front" force="true"
+    xoffsetPercent="0.29795" 
+    yoffsetPercent="0.0312" 
+    xoffsetDesignAbsolute="218.7" 
+    yoffsetDesignAbsolute="30.72" 
+    shirtTopMargin="0.3186" 
+    designRegionScale="0.75" 
+    designWidth="623" 
+    designHeight="225" 
+    shirtScale="2.064"
+    printWidth="8.31"
+    printHeight="3"/>
+    	<!-- ======================================= -->	
+  <merch name="magnet" side="front" 
+    xoffsetPercent="0.236" 
+    yoffsetPercent="0.0858" 
+    xoffsetDesignAbsolute="116.1" 
+    yoffsetDesignAbsolute="26.88" 
+    shirtTopMargin="0.2088" 
+    designRegionScale="0.705" 
+    designWidth="845" 
+    designHeight="590" 
+    shirtScale="1.608"
+    printWidth="3"
+    printHeight="2"
+    fullBleed="true"/>
+      	<!-- ======================================= -->	
+  <merch name="bumper_sticker" side="front" 
+    xoffsetPercent="0.23895" 
+    yoffsetPercent="0.0338" 
+    xoffsetDesignAbsolute="116.1" 
+    yoffsetDesignAbsolute="26.88" 
+    shirtTopMargin="0.2088" 
+    designRegionScale="0.705" 
+    designWidth="832" 
+    designHeight="266" 
+    shirtScale="1.656"
+    printWidth="10"
+    printHeight="3"
+    fullBleed="true"/>
+    	<!-- ======================================= -->	
+  <merch name="clock" side="front" 
+    xoffsetPercent="0.20945" 
+    yoffsetPercent="0.1872" 
+    xoffsetDesignAbsolute="143.1" 
+    yoffsetDesignAbsolute="51.84" 
+    shirtTopMargin="0.2088" 
+    designRegionScale="0.705" 
+    designWidth="750" 
+    designHeight="750" 
+    shirtScale="1.584"
+    printWidth="8.5"
+    printHeight="8.5"
+    fullBleed="true"/>  
+    	<!-- ======================================= -->	
+  <merch name="sigg" side="front" 
+    xoffsetPercent="0.31565" 
+    yoffsetPercent="0.2873" 
+    xoffsetDesignAbsolute="388.8" 
+    yoffsetDesignAbsolute="293.76" 
+    shirtTopMargin="0.1656" 
+    designRegionScale="0.595" 
+    designWidth="295" 
+    designHeight="543" 
+    shirtScale="2.4"
+    printWidth="3.258"
+    printHeight="6"/>
+    	<!-- ======================================= -->	
+  <merch name="womens_fitted_t" side="front" 
+    xoffsetPercent="0.3363" 
+    yoffsetPercent="0.1222" 
+    xoffsetDesignAbsolute="375.3" 
+    yoffsetDesignAbsolute="167.04" 
+    shirtTopMargin="0.1422" 
+    designRegionScale="0.75" 
+    designWidth="320" 
+    designHeight="320" 
+    shirtScale="2.472"
+    printWidth="10"
+    printHeight="10"/>
+    	<!-- ======================================= -->	
+  <merch name="dog_t" side="front" 
+    xoffsetPercent="0.4248" 
+    yoffsetPercent="0.3588" 
+    xoffsetDesignAbsolute="440.1" 
+    yoffsetDesignAbsolute="412" 
+    shirtTopMargin="0.0846" 
+    designRegionScale="0.88" 
+    designWidth="200" 
+    designHeight="200" 
+    shirtScale="3.84"
+    printWidth="8"
+    printHeight="8"/>
+    	<!-- ======================================= -->	
+  <merch name="keepsake_box_black" side="front"
+    xoffsetPercent="0.3363"
+    yoffsetPercent="0.1248"
+    xoffsetDesignAbsolute="171"
+    yoffsetDesignAbsolute="39"
+    shirtTopMargin="0.144"
+    designRegionScale="0.505"
+    designWidth="725"
+    designHeight="725"
+    printWidth="5.25"
+    printHeight="5.25"
+    shirtScale="2.4"
+    fullBleed="true"/>
+	<!-- ======================================= -->	
+  <merch name="keepsake_box_brown" side="front"
+    xoffsetPercent="0.3363"
+    yoffsetPercent="0.1248"
+    xoffsetDesignAbsolute="171"
+    yoffsetDesignAbsolute="39"
+    shirtTopMargin="0.144"
+    designRegionScale="0.505"
+    designWidth="725"
+    designHeight="725"
+    printWidth="5.25"
+    printHeight="5.25"
+    shirtScale="2.4"
+    fullBleed="true"/>
+	<!-- ======================================= -->	
+  <merch name="tote" side="front" 
+    xoffsetPercent="0.3363" 
+    yoffsetPercent="0.3289" 
+    xoffsetDesignAbsolute="340.2" 
+    yoffsetDesignAbsolute="384" 
+    shirtTopMargin="0.0954" 
+    designRegionScale="0.6" 
+    designWidth="410" 
+    designHeight="410" 
+    shirtScale="2.4"
+    printWidth="10"
+    printHeight="10"/>
+    	<!-- ======================================= -->	
+  <merch name="tote" side="back" 
+    xoffsetPercent="0.3363" 
+    yoffsetPercent="0.3289" 
+    xoffsetDesignAbsolute="340.2" 
+    yoffsetDesignAbsolute="384" 
+    shirtTopMargin="0.0954" 
+    designRegionScale="0.6" 
+    designWidth="410" 
+    designHeight="410" 
+    shirtScale="2.4"
+    printWidth="10"
+    printHeight="10"/>  
+    	<!-- ======================================= -->	
+  <merch name="magnet_rectangle_horiz" side="front"
+    xoffsetPercent="0.3457"
+    yoffsetPercent="0.0343"
+    xoffsetDesignAbsolute="138"
+    yoffsetDesignAbsolute="34"
+    shirtTopMargin="0.1904"
+    designRegionScale="0.475"
+    designWidth="791"
+    designHeight="565"
+    printWidth="3.5"
+    printHeight="2.5"
+    shirtScale="2.55"
+    fullBleed="true"/>
+    	<!-- ======================================= -->	
+  <merch name="sticker_rectangle_horiz" side="front"
+    xoffsetPercent="0.3368"
+    yoffsetPercent="0.0571"
+    xoffsetDesignAbsolute="134"
+    yoffsetDesignAbsolute="34"
+    shirtTopMargin="0.1904"
+    designRegionScale="0.5"
+    designWidth="800"
+    designHeight="509"
+    printWidth="5.5"
+    printHeight="3.5"
+    shirtScale="2.429"
+    fullBleed="true"/>
+    	<!-- ======================================= -->	
+  <merch name="sticker_oval" side="front"
+    xoffsetPercent="0.3371"
+    yoffsetPercent="0.0371"
+    xoffsetDesignAbsolute="128"
+    yoffsetDesignAbsolute="36"
+    shirtTopMargin="0.1656"
+    designRegionScale="0.495"
+    designWidth="815"
+    designHeight="519"
+    printWidth="5.5"
+    printHeight="3.5"
+    shirtScale="2.4"
+    fullBleed="true"/>
+    	<!-- ======================================= -->	
+  <merch name="ceramic_travel_mug" side="front"
+    xoffsetPercent="0.3371"
+    yoffsetPercent="0.0371"
+    xoffsetDesignAbsolute="128"
+    yoffsetDesignAbsolute="36"
+    shirtTopMargin="0.1656"
+    designRegionScale="0.495"
+    designWidth="815"
+    designHeight="519"
+    printWidth="2.91"
+    printHeight="4.58"
+    shirtScale="2.4"
+    fullBleed="true"/>
+    	<!-- ======================================= -->	
+  <merch name="button_3_5" side="front"
+    xoffsetPercent="0.3313"
+    yoffsetPercent="0.1423"
+    xoffsetDesignAbsolute="128"
+    yoffsetDesignAbsolute="31"
+    shirtTopMargin="0.1656"
+    designRegionScale="0.4925"
+    designWidth="801"
+    designHeight="801"
+    printWidth="3.5"
+    printHeight="3.5"
+    shirtScale="2.4"
+    fullBleed="true"/>
+    	<!-- ======================================= -->	
+    <!-- copy of button_3_5 -->
+    <merch name="button_2_5" side="front"
+      xoffsetPercent="0.3313"
+      yoffsetPercent="0.1423"
+      xoffsetDesignAbsolute="128"
+      yoffsetDesignAbsolute="31"
+      shirtTopMargin="0.1656"
+      designRegionScale="0.4925"
+      designWidth="801"
+      designHeight="801"
+      printWidth="3.5"
+      printHeight="3.5"
+      shirtScale="2.4"
+      fullBleed="true"/>	
+    	
+  <!-- disabling while 2_5 issues are worked out -->  	
+  <!-- <merch name="button_2_5" side="front"
+    xoffsetPercent="0.3313"
+    yoffsetPercent="0.1423"
+    xoffsetDesignAbsolute="156"
+    yoffsetDesignAbsolute="32"
+    shirtTopMargin="0.1656"
+    designRegionScale="0.4925"
+    designWidth="752"
+    designHeight="752"
+    printWidth="2.25"
+    printHeight="2.25"
+    shirtScale="2.4"
+    fullBleed="true"/>   -->
+    	<!-- ======================================= -->	
+  <merch name="button_mini" side="front"
+    xoffsetPercent="0.3313"
+    yoffsetPercent="0.1348"
+    xoffsetDesignAbsolute="151"
+    yoffsetDesignAbsolute="32"
+    shirtTopMargin="0.1656"
+    designRegionScale="0.515"
+    designWidth="764"
+    designHeight="764"
+    printWidth="1"
+    printHeight="1"
+    shirtScale="2.4"
+    fullBleed="true"/>    
+	<!-- ======================================= -->	
+  <merch name="yardsign" side="front"
+    xoffsetPercent="0.2743"
+    yoffsetPercent="0.0143"
+    xoffsetDesignAbsolute="197"
+    yoffsetDesignAbsolute="31"
+    shirtTopMargin="0.1681"
+    designRegionScale="0.72"
+    designWidth="672"
+    designHeight="448"
+    printWidth="21"
+    printHeight="14"
+    shirtScale="1.857"/>
+	<!-- ======================================= -->	
+  <merch name="banner" side="front"
+    xoffsetPercent="0.3411"
+    yoffsetPercent="0.0254"
+    xoffsetDesignAbsolute="157"
+    yoffsetDesignAbsolute="42"
+    shirtTopMargin="0.1656"
+    designRegionScale="0.465"
+    designWidth="755"
+    designHeight="503"
+    printWidth="42"
+    printHeight="28"
+    shirtScale="2.486"/>
+    
+    
+  <merch name="ornament_oval" side="front"
+    xoffsetPercent="0.3057"
+    yoffsetPercent="0.1586"
+    xoffsetDesignAbsolute="262"
+    yoffsetDesignAbsolute="50"
+    shirtTopMargin="0.1656"
+    designRegionScale="0.545"
+    designWidth="589"
+    designHeight="825"
+    printWidth="2.5"
+    printHeight="3.5"
+    shirtScale="2.057"
+    fullBleed="true"/>
+
+  <merch name="ornament_round" side="front"
+    xoffsetPercent="0.3229"
+    yoffsetPercent="0.1379"
+    xoffsetDesignAbsolute="157"
+    yoffsetDesignAbsolute="39"
+    shirtTopMargin="0.1656"
+    designRegionScale="0.545"
+    designWidth="753"
+    designHeight="753"
+    printWidth="3.5"
+    printHeight="3.5"
+    shirtScale="2.286"
+    fullBleed="true"/>
+
+  <merch name="poster_large" side="front"
+    xoffsetPercent="0.3339"
+    yoffsetPercent="0.1675"
+    xoffsetDesignAbsolute="245"
+    yoffsetDesignAbsolute="31"
+    shirtTopMargin="0.1656"
+    designRegionScale="0.445"
+    designWidth="574"
+    designHeight="875"
+    printWidth="23"
+    printHeight="33"
+    shirtScale="2.4"/>
+
+  <merch name="framed_tile" side="front"
+    xoffsetPercent="0.3363"
+    yoffsetPercent="0.1143"
+    xoffsetDesignAbsolute="196"
+    yoffsetDesignAbsolute="80"
+    shirtTopMargin="0.1656"
+    designRegionScale="0.49"
+    designWidth="672"
+    designHeight="672"
+    printWidth="5.25"
+    printHeight="5.25"
+    shirtScale="2.4"
+    fullBleed="true"/>
+
+  <merch name="thong" side="front"
+    xoffsetPercent="0.3363"
+    yoffsetPercent="0.0686"
+    xoffsetDesignAbsolute="426"
+    yoffsetDesignAbsolute="64"
+    shirtTopMargin="0.1656"
+    designRegionScale="0.695"
+    designWidth="220"
+    designHeight="220"
+    printWidth="2.75"
+    printHeight="2.75"
+    shirtScale="2.6"/>
+    
+  <merch name="thong" side="back"
+    xoffsetPercent="0.3363"
+    yoffsetPercent="0.0686"
+    xoffsetDesignAbsolute="480"
+    yoffsetDesignAbsolute="61"
+    shirtTopMargin="0.1656"
+    designRegionScale="0.695"
+    designWidth="90"
+    designHeight="90"
+    printWidth=""
+    printHeight=""
+    shirtScale="2.6"/>    
+    
+  <merch name="magnet_225" side="front"
+    xoffsetPercent="0.3313"
+    yoffsetPercent="0.1423"
+    xoffsetDesignAbsolute="156"
+    yoffsetDesignAbsolute="32"
+    shirtTopMargin="0.1656"
+    designRegionScale="0.4925"
+    designWidth="752"
+    designHeight="752"
+    printWidth="2.25"
+    printHeight="2.25"
+    shirtScale="2.4"
+    fullBleed="true"/>    
+    
+  <merch name="bear" side="front"
+    xoffsetPercent="0.3486"
+    yoffsetPercent="0.1629"
+    xoffsetDesignAbsolute="429"
+    yoffsetDesignAbsolute="496"
+    shirtTopMargin="0.1656"
+    designRegionScale="0.415"
+    designWidth="210"
+    designHeight="210"
+    printWidth="3"
+    printHeight="3"
+    shirtScale="2.4"/>    
+      
+  <merch name="mousepad" side="front"
+    xoffsetPercent="0.2943"
+    yoffsetPercent="0.12"
+    xoffsetDesignAbsolute="136"
+    yoffsetDesignAbsolute="36"
+    shirtTopMargin="0.1656"
+    designRegionScale="0.585"
+    designWidth="795"
+    designHeight="670"
+    printWidth="9.25"
+    printHeight="7.75"
+    fullBleed="true"
+    shirtScale="2.029"/>      
+
+
+</merchandise>

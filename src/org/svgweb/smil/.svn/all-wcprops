@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/644/trunk/src/org/svgweb/smil
+END
+SplineInterpolator.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/644/trunk/src/org/svgweb/smil/SplineInterpolator.as
+END
+LengthItem.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/644/trunk/src/org/svgweb/smil/LengthItem.as
+END
+OffsetTimeSpec.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/644/trunk/src/org/svgweb/smil/OffsetTimeSpec.as
+END
+TimeInterval.as
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/594/trunk/src/org/svgweb/smil/TimeInterval.as
+END
+WallclockTimeSpec.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/594/trunk/src/org/svgweb/smil/WallclockTimeSpec.as
+END
+IndefiniteTimeSpec.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/594/trunk/src/org/svgweb/smil/IndefiniteTimeSpec.as
+END
+TimeSpec.as
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/644/trunk/src/org/svgweb/smil/TimeSpec.as
+END
+EventTimeSpec.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/594/trunk/src/org/svgweb/smil/EventTimeSpec.as
+END
